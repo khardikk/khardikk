@@ -22,15 +22,15 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hady68&label=Profile%20views&color=0e75b6&style=flat" alt="hady68" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khardikk&label=Profile%20views&color=0e75b6&style=flat" alt="khardikk" /> </p>
 
  <!-- <div>
-    <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api?username=hady68&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="hady68" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
+    <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api?username=khardikk&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="khardikk" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khardikk&theme=dark-smoky&hide_border=true" alt="khardikk" />
   </div> -->
 
-<img  src="https://streak-stats.demolab.com?user=hady68&theme=aura&hide_border=true&card_width=550"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=hady68&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<img  src="https://streak-stats.demolab.com?user=khardikk&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=khardikk&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 <!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaTris&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
 <!--<img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>-->
 
@@ -67,7 +67,7 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
 <!--Snake animation -->
 
-![Snake animation](https://github.com/hady68/hady68/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/khardikk/khardikk/blob/output/github-contribution-grid-snake.svg)
 
 
 
