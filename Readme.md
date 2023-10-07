@@ -70,8 +70,6 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 ![Snake animation](https://github.com/khardikk/khardikk/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
 <h1 align="center">Connect</h1>
 
 
