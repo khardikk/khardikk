@@ -19,9 +19,11 @@ A passionate developer driven by the power of technology or positive change, wit
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
-<h1> My GitHub Stats  </h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=khardikk)](https://git.io/streak-stats)
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'>
+<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khardikk&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=khardikk&label=Profile%20views&color=0e75b6&style=flat" alt="khardikk" /> </p>
