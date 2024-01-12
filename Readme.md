@@ -23,10 +23,11 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khardikk&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=khardikk&label=Profile%20views&color=0e75b6&style=flat" alt="khardikk" /> </p>
+
 
  <!-- <div>
     <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api?username=khardikk&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="khardikk" style="margin-bottom: 20px;" />
