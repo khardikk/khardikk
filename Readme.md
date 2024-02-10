@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Developer driven by the power of technology with a background in Computer Science and community management. Ready to contribute to impactful projects. Currently exploring the possibilities of AI by developing unique solutions!
+ I am a Developer driven by the power of technology with a background in Computer Science and Community Management. Ready to contribute to impactful projects. Currently exploring the possibilities with AI and Full Stack Engineering
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
