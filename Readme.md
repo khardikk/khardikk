@@ -15,7 +15,7 @@
   </a>
 </p>
 
- I am a Developer driven by the power of technology with a background in Computer Science and Community Management. Ready to contribute to impactful projects. Currently exploring the possibilities with AI and Full Stack Engineering
+I'm a developer with the interest of building, currently working with ML, Fullstack and building a community called Builders Hub.
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
