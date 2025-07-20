@@ -6,7 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif">
 
 ## About Me
-I build and ship production-ready GenAI products with scalable backends. Software Engineer with expertise in Python backend engineering, async programming, and infrastructure design.
+
+I enjoy building and shipping useful products which solves a problem. Software Engineer with expertise in Java backend and React Frontend engineering.
 
 <!--- 📑 **[See my resume here]()** -->
   
