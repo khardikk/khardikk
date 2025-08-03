@@ -28,7 +28,7 @@ I enjoy building and shipping useful products which solves a problem. Software E
 
 ## What I'm Building
 
-### [Underrated Flixhub](https://underratedflixhub.com) | 💰 $50 revenue - [Support/Donate](https://buymeacoffee.com/hardikk)
+### [Underrated Flixhub](https://underratedflixhub.com) | 💰 $60 revenue - [Support/Donate](https://buymeacoffee.com/hardikk)
 
 
 
